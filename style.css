@@ -1,0 +1,47 @@
+body{
+    overflow-x: hidden;
+}
+
+#date{
+    background-color: #fa8072;
+    color: white;
+    margin-bottom: -1px;
+}
+.country{
+    color: #fa8072;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.divImg{
+    background-color:#e7e6e9;
+}
+
+.divImg p{
+    font-weight:600;
+}
+
+#heading{
+    background-color: #fa8072;
+    color: white;
+    font-weight: 600;
+    margin-left: -23px;
+}
+
+.easyDiv h4{
+    color: #fa8072;
+    padding-top: 10px;
+}
+
+.easyDiv p{
+    width: 90%;
+}
+
+footer{
+    color: #fa8072;
+}
+
+@media (max-width: 480px) {
+    #heading{
+        margin-left: 0px;
+    }
+}
